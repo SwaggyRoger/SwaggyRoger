@@ -122,6 +122,19 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 
 > 💡 See everything in one place on my **[live portfolio →](https://swaggyroger.github.io/Portfolio/)**
 
+## 🏆 Hackathon Achievements
+
+<a href="https://devpost.com/SwaggyRoger">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost profile"/>
+</a>
+
+| | Achievement | Earned for | Date |
+|:--:|---|---|:--:|
+| 🥇 | **X Hackathons — Level 1** | Submitting eligible projects to separate hackathons | Apr 2026 |
+| 🧩 | **Generalist** | Submitting to 3 hackathons with different themes | Apr 2026 |
+| 🌐 | **First Online Hackathon** | Submitting a project to an online hackathon | Apr 2026 |
+| 🎉 | **Welcome to Devpost** | Joining the Devpost community | Jan 2026 |
+
 ## 📊 GitHub Activity
 
 <div align="center">
