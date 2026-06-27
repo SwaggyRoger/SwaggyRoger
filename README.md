@@ -59,9 +59,9 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 <td width="33%" valign="top">
 
 #### 🌱 Now Working On
+- AI agent harness & context engineering
 - Deepening React / Next.js / Prisma
 - CDISC SDTM & EDC (Medidata Rave)
-- Docker / ShinyProxy deployment
 
 </td>
 </tr>
@@ -69,6 +69,7 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 
 ## 🛠️ Tech Stack
 
+<p><b>💻 Full-Stack &amp; Web</b></p>
 <p>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
 <img src="https://img.shields.io/badge/Shiny-447099?style=flat-square&logo=rstudio&logoColor=white" alt="Shiny"/>
@@ -77,6 +78,8 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
+
+<p><b>🗄️ Data &amp; Infrastructure</b></p>
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
@@ -84,12 +87,27 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
+
+<p><b>📈 Statistics, ML &amp; Domain</b></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/SAS-0766D1?style=flat-square&logo=sas&logoColor=white" alt="SAS"/>
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS"/>
 <img src="https://img.shields.io/badge/CDISC_SDTM-00857C?style=flat-square" alt="CDISC SDTM"/>
 <img src="https://img.shields.io/badge/RWE_/_EHR-6A1B9A?style=flat-square" alt="RWE / EHR"/>
+</p>
+
+<p><b>🤖 AI &amp; LLM Engineering</b></p>
+<p>
+<img src="https://img.shields.io/badge/Claude_/_Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude / Anthropic API"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/MCP-4A2A82?style=flat-square" alt="Model Context Protocol"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=flat-square" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Context_%26_Harness_Engineering-7B2D8E?style=flat-square" alt="Context & Harness Engineering"/>
+<img src="https://img.shields.io/badge/Agentic_Workflows-8E24AA?style=flat-square" alt="Agentic Workflows"/>
+<img src="https://img.shields.io/badge/RAG-9C27B0?style=flat-square" alt="Retrieval-Augmented Generation"/>
+<img src="https://img.shields.io/badge/AI--Assisted_Dev-00897B?style=flat-square" alt="AI-Assisted Development"/>
 </p>
 
 ## 📂 Featured Work
