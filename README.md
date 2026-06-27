@@ -1,14 +1,18 @@
+<!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SwaggyRoger/Portfolio/main/assets/roger.png" width="150" alt="Yi-Hsuan (Roger) Chen"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:14b8a6,100:2563eb&height=210&section=header&text=Yi-Hsuan%20(Roger)%20Chen&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Data%20Scientist&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Roger Chen"/>
 
-# Hi there 👋 I'm Roger
+<img src="https://raw.githubusercontent.com/SwaggyRoger/Portfolio/main/assets/roger.png" width="130" alt="Roger Chen" style="border-radius:50%"/>
 
-### Full-Stack Developer &nbsp;&middot;&nbsp; Data Scientist
+<!-- ===== TYPING ANIMATION ===== -->
+<a href="https://swaggyroger.github.io/Portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=14B8A6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(R%2FShiny+%2B+Next.js);Data+Scientist+%26+RWE+Researcher;Leading+a+5-person+Open+Source+Team;Building+Clinical+Data+Applications" alt="Typing SVG"/>
+</a>
 
+<!-- ===== COUNTERS + SOCIAL BADGES ===== -->
 <p>
-Building clinical data-review platforms end to end &mdash; <b>R/Shiny</b> + <b>Next.js</b> &mdash; while leading a 5-person team.<br/>
-Johns Hopkins&ndash;trained in data science &amp; real-world evidence research.
+  <img src="https://komarev.com/ghpvc/?username=SwaggyRoger&label=Profile%20views&color=14b8a6&style=flat" alt="Profile views"/>
 </p>
 
 <a href="https://swaggyroger.github.io/Portfolio/">
@@ -26,7 +30,7 @@ Johns Hopkins&ndash;trained in data science &amp; real-world evidence research.
 
 </div>
 
----
+<br/>
 
 ## 🎓 About Me
 
@@ -63,36 +67,30 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 </tr>
 </table>
 
----
-
 ## 🛠️ Tech Stack
 
-**Full-Stack & Web**
-
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-447099?style=flat-square&logo=rstudio&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Data & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-**Statistics, ML & Domain**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0766D1?style=flat-square&logo=sas&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
-![CDISC SDTM](https://img.shields.io/badge/CDISC_SDTM-00857C?style=flat-square)
-![RWE / EHR](https://img.shields.io/badge/RWE_/_EHR-6A1B9A?style=flat-square)
-
----
+<p>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/Shiny-447099?style=flat-square&logo=rstudio&logoColor=white" alt="Shiny"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SAS-0766D1?style=flat-square&logo=sas&logoColor=white" alt="SAS"/>
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS"/>
+<img src="https://img.shields.io/badge/CDISC_SDTM-00857C?style=flat-square" alt="CDISC SDTM"/>
+<img src="https://img.shields.io/badge/RWE_/_EHR-6A1B9A?style=flat-square" alt="RWE / EHR"/>
+</p>
 
 ## 📂 Featured Work
 
@@ -106,8 +104,15 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 
 > 💡 See everything in one place on my **[live portfolio →](https://swaggyroger.github.io/Portfolio/)**
 
----
+## 📊 GitHub Activity
 
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SwaggyRoger&show_icons=true&hide_border=true&title_color=14b8a6&icon_color=2563eb&text_color=808a99&bg_color=00000000" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwaggyRoger&layout=compact&hide_border=true&title_color=14b8a6&text_color=808a99&bg_color=00000000" alt="Top languages"/>
+</div>
+
+<!-- ===== FOOTER ===== -->
+<br/>
 <div align="center">
 
 ### 📫 Let's build something
@@ -119,6 +124,6 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<sub>Thanks for stopping by 🚀</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:14b8a6,100:0e7490&height=120&section=footer" width="100%" alt=""/>
 
 </div>
