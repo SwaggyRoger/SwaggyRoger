@@ -3,17 +3,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:14b8a6,100:2563eb&height=210&section=header&text=Yi-Hsuan%20(Roger)%20Chen&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Data%20Scientist&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Roger Chen"/>
 
-<img src="https://raw.githubusercontent.com/SwaggyRoger/Portfolio/main/assets/roger.png" width="130" alt="Roger Chen" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/SwaggyRoger/SwaggyRoger/main/assets/roger.png" width="130" alt="Roger Chen" style="border-radius:50%"/>
 
 <!-- ===== TYPING ANIMATION ===== -->
-<a href="https://swaggyroger.github.io/Portfolio/">
+<a href="https://swaggyroger.github.io/SwaggyRoger/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=14B8A6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(R%2FShiny+%2B+Next.js);Data+Scientist+%26+RWE+Researcher;Leading+a+5-person+Open+Source+Team;Building+Clinical+Data+Applications" alt="Typing SVG"/>
 </a>
 
 <!-- ===== PRIMARY CTA: LIVE PORTFOLIO ===== -->
 <h3>
 
-🌐 &nbsp;<a href="https://swaggyroger.github.io/Portfolio/">Explore my live portfolio&nbsp; →</a>
+🌐 &nbsp;<a href="https://swaggyroger.github.io/SwaggyRoger/">Explore my live portfolio&nbsp; →</a>
 
 </h3>
 
@@ -119,8 +119,8 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 | Project | What it is | Links |
 |---|---|---|
 | 💞 **Relationship AI** | Gemini 3.0 Flash relationship-wellness app — *my role: overall design & the AI Coach tab* | [Devpost](https://devpost.com/software/rela-ai) |
-| 🧠 **Alzheimer's Disease Data QC** | Reproducible R Markdown QC report for clinical data review | [Live report](https://swaggyroger.github.io/Portfolio/QC_AD.html) |
-| 🗺️ **Tick-Location Ordinary Kriging** | Geostatistical interpolation turning sparse samples into a risk surface | [Live report](https://swaggyroger.github.io/Portfolio/Tick_Krig.html) |
+| 🧠 **Alzheimer's Disease Data QC** | Reproducible R Markdown QC report for clinical data review | [Live report](https://swaggyroger.github.io/SwaggyRoger/QC_AD.html) |
+| 🗺️ **Tick-Location Ordinary Kriging** | Geostatistical interpolation turning sparse samples into a risk surface | [Live report](https://swaggyroger.github.io/SwaggyRoger/Tick_Krig.html) |
 | 🫁 **Dupilumab in COPD (7-Year Cohort)** | TriNetX EHR cohort study (Cox PH + PSM) supporting FDA approval | [Paper (JACI)](https://www.sciencedirect.com/science/article/pii/S0091674924010212) |
 | 🌫️ **Air-Pollution Policy Benefits, Taiwan** | 23M-record disease-burden model: $3.67B savings, 3.19M DALYs avoided | [Paper (Environ. Pollut.)](https://www.sciencedirect.com/science/article/pii/S0269749123014070) |
 | 🏙️ **Urban Crime & Green Space** | Bayesian spatiotemporal modeling (R-INLA) of Baltimore crime | [ArcGIS dashboard](https://experience.arcgis.com/experience/80188ab4541d4cd6be9887406ac6ef56) |
