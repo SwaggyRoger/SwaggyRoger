@@ -17,10 +17,6 @@
 
 </h3>
 
-<a href="https://swaggyroger.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20%20VISIT%20MY%20LIVE%20PORTFOLIO-0e7490?style=for-the-badge&labelColor=14b8a6&logoColor=white" height="42" alt="Live Portfolio"/>
-</a>
-
 <!-- ===== COUNTERS + SOCIAL BADGES ===== -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=SwaggyRoger&label=Profile%20views&color=14b8a6&style=flat" alt="Profile views"/>
@@ -122,27 +118,31 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 
 | Project | What it is | Links |
 |---|---|---|
-| 💞 **Rela AI** | Gemini 3.0 Flash relationship-wellness app — *my role: overall design & the AI Coach tab* | [Devpost](https://devpost.com/software/rela-ai) |
+| 💞 **Relationship AI** | Gemini 3.0 Flash relationship-wellness app — *my role: overall design & the AI Coach tab* | [Devpost](https://devpost.com/software/rela-ai) |
 | 🧠 **Alzheimer's Disease Data QC** | Reproducible R Markdown QC report for clinical data review | [Live report](https://swaggyroger.github.io/Portfolio/QC_AD.html) |
 | 🗺️ **Tick-Location Ordinary Kriging** | Geostatistical interpolation turning sparse samples into a risk surface | [Live report](https://swaggyroger.github.io/Portfolio/Tick_Krig.html) |
 | 🫁 **Dupilumab in COPD (7-Year Cohort)** | TriNetX EHR cohort study (Cox PH + PSM) supporting FDA approval | [Paper (JACI)](https://www.sciencedirect.com/science/article/pii/S0091674924010212) |
 | 🌫️ **Air-Pollution Policy Benefits, Taiwan** | 23M-record disease-burden model: $3.67B savings, 3.19M DALYs avoided | [Paper (Environ. Pollut.)](https://www.sciencedirect.com/science/article/pii/S0269749123014070) |
 | 🏙️ **Urban Crime & Green Space** | Bayesian spatiotemporal modeling (R-INLA) of Baltimore crime | [ArcGIS dashboard](https://experience.arcgis.com/experience/80188ab4541d4cd6be9887406ac6ef56) |
 
-> 💡 See everything in one place on my **[live portfolio →](https://swaggyroger.github.io/Portfolio/)**
-
 ## 🏆 Hackathon Achievements
+
+<div align="center">
 
 <a href="https://devpost.com/SwaggyRoger">
   <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost profile"/>
 </a>
 
-| | Achievement | Earned for | Date |
-|:--:|---|---|:--:|
-| 🥇 | **X Hackathons — Level 1** | Submitting eligible projects to separate hackathons | Apr 2026 |
-| 🧩 | **Generalist** | Submitting to 3 hackathons with different themes | Apr 2026 |
-| 🌐 | **First Online Hackathon** | Submitting a project to an online hackathon | Apr 2026 |
-| 🎉 | **Welcome to Devpost** | Joining the Devpost community | Jan 2026 |
+<table>
+<tr align="center">
+<td width="150"><img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/905/552/datas/c1387e1971cd2d0e67200d956b460c07_medium_bronze.png" width="78" alt="X Hackathons Level 1"/><br/><b>X Hackathons<br/>Level 1</b><br/><sub>Apr 2026</sub></td>
+<td width="150"><img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/222/datas/2a2cd5de90e8e74016c5e23d387b74e0_medium.png" width="78" alt="Generalist"/><br/><b>Generalist</b><br/><sub>Apr 2026</sub></td>
+<td width="150"><img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/905/551/datas/ceffdfce970ff3dfa4435ebc5fc7f33a_medium.png" width="78" alt="First Online Hackathon"/><br/><b>First Online<br/>Hackathon</b><br/><sub>Apr 2026</sub></td>
+<td width="150"><img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/220/datas/d431f7b4f3a71b2b35881ea755e24613_medium.png" width="78" alt="Welcome to Devpost"/><br/><b>Welcome to<br/>Devpost</b><br/><sub>Jan 2026</sub></td>
+</tr>
+</table>
+
+</div>
 
 ## 📊 GitHub Activity
 
