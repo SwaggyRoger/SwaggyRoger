@@ -1,7 +1,7 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,55:3d0000,100:ff003c&height=220&text=Yi-Hsuan%20(Roger)%20Chen&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=I%20don't%20trust%20dashboards.%20I%20build%20ones%20I%20can%20interrogate.&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Roger Chen"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,55:3d0000,100:ff003c&height=220&text=Yi-Hsuan%20(Roger)%20Chen&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Question%20everything.%20Build%20what%20survives%20review.&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Roger Chen"/>
 
 <img src="https://raw.githubusercontent.com/SwaggyRoger/SwaggyRoger/main/assets/roger.png" width="130" alt="Roger Chen" style="border-radius:50%"/>
 
