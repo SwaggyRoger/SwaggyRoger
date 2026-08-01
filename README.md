@@ -63,9 +63,9 @@ Before that: **Johns Hopkins**, real-world evidence research on EHR datasets (Tr
 <td width="33%" valign="top">
 
 #### 🔥 Currently sharpening
-- AI agent harness & context engineering
-- React / Next.js / Prisma
-- CDISC SDTM & EDC (Medidata Rave)
+- Agentic engineering — multi-agent orchestration & verification loops
+- Harness & context engineering for AI-assisted dev
+- React / Next.js / Prisma · CDISC SDTM & EDC (Medidata Rave)
 
 </td>
 </tr>
@@ -118,8 +118,9 @@ Before that: **Johns Hopkins**, real-world evidence research on EHR datasets (Tr
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/MCP-4A2A82?style=flat-square" alt="Model Context Protocol"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=flat-square" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/Context_%26_Harness_Engineering-7B2D8E?style=flat-square" alt="Context & Harness Engineering"/>
-<img src="https://img.shields.io/badge/Agentic_Workflows-8E24AA?style=flat-square" alt="Agentic Workflows"/>
+<img src="https://img.shields.io/badge/Agentic_Engineering-8E24AA?style=flat-square" alt="Agentic Engineering"/>
+<img src="https://img.shields.io/badge/Harness_Engineering-7B2D8E?style=flat-square" alt="Harness Engineering"/>
+<img src="https://img.shields.io/badge/Context_Engineering-5E35B1?style=flat-square" alt="Context Engineering"/>
 <img src="https://img.shields.io/badge/RAG-9C27B0?style=flat-square" alt="Retrieval-Augmented Generation"/>
 <img src="https://img.shields.io/badge/AI--Assisted_Dev-00897B?style=flat-square" alt="AI-Assisted Development"/>
 </p>
