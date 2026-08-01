@@ -1,60 +1,60 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:14b8a6,100:2563eb&height=210&section=header&text=Yi-Hsuan%20(Roger)%20Chen&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Data%20Scientist&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Roger Chen"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,55:3d0000,100:ff003c&height=220&text=Yi-Hsuan%20(Roger)%20Chen&fontSize=46&fontColor=ffffff&fontAlignY=42&rotate=8&desc=I%20don't%20trust%20dashboards.%20I%20build%20ones%20I%20can%20interrogate.&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Roger Chen"/>
 
 <img src="https://raw.githubusercontent.com/SwaggyRoger/SwaggyRoger/main/assets/roger.png" width="130" alt="Roger Chen" style="border-radius:50%"/>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://swaggyroger.github.io/SwaggyRoger/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=14B8A6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(R%2FShiny+%2B+Next.js);Data+Scientist+%26+RWE+Researcher;Leading+a+5-person+Open+Source+Team;Building+Clinical+Data+Applications" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=FF003C&center=true&vCenter=true&width=640&lines=Question+everything.+Verify+twice.+Ship+once.;Full-Stack+Developer+(R%2FShiny+%2B+Next.js);If+it+isn't+reproducible%2C+it+didn't+happen.;Leading+a+5-person+international+dev+team" alt="Typing SVG"/>
 </a>
 
 <!-- ===== PRIMARY CTA: LIVE PORTFOLIO ===== -->
 <h3>
 
-🌐 &nbsp;<a href="https://swaggyroger.github.io/SwaggyRoger/">Explore my live portfolio&nbsp; →</a>
+⚡ &nbsp;<a href="https://swaggyroger.github.io/SwaggyRoger/">See the receipts — live portfolio&nbsp; →</a>
 
 </h3>
 
 <!-- ===== COUNTERS + SOCIAL BADGES ===== -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SwaggyRoger&label=Profile%20views&color=14b8a6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SwaggyRoger&label=Profile%20views&color=ff003c&style=flat" alt="Profile views"/>
 </p>
 
 <a href="https://www.linkedin.com/in/roger-yi-hsuan-chen-901b611a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff003c" alt="LinkedIn"/>
 </a>
 <a href="mailto:cres4356@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff003c" alt="Email"/>
 </a>
 <a href="https://github.com/SwaggyRoger">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff003c" alt="GitHub"/>
 </a>
 
 </div>
 
 <br/>
 
-## 🎓 About Me
+## 🗡️ Who I am
 
-I'm a **data scientist turned full-stack developer**, currently a **Statistical Analyst II at DeltaMed Solutions**, where I lead a small team building the **clinical data-review platforms** that clinical and biometrics staff use to monitor patient safety and data quality across trials — working to **CDISC SDTM** standards.
+**Data scientist turned full-stack developer** — currently a **Statistical Analyst II at DeltaMed Solutions**, where I lead a **five-person international team** shipping the **clinical data-review platforms** (three of them, ~47K lines of R, live in production) that clinical and biometrics teams use to catch data problems before data problems catch patients. Built to **CDISC SDTM** standards, deployed with Docker/ShinyProxy, and interrogated daily — by me, before anyone else gets the chance.
 
-My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards, a modern **Next.js + PostgreSQL** admin platform, and the database schema that ties them together. Before this, I trained at **Johns Hopkins University** in environmental health engineering, leading **real-world evidence (RWE)** research on EHR datasets (TriNetX, NHIRD) with three peer-reviewed publications.
+Before that: **Johns Hopkins**, real-world evidence research on EHR datasets (TriNetX, NHIRD), three peer-reviewed publications — including a COPD cohort study that held up well enough to support an **FDA approval**. I like conclusions that survive hostile review. Mine included.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### 🔭 Currently Building
-- R/Shiny *Patient Profile EDC* review dashboards
-- A Next.js + PostgreSQL admin platform
+#### 🔨 Currently shipping
+- R/Shiny *Patient Profile EDC* review platforms
+- ADaM-based TFL generation (90+ table shells, KM/forest/waterfall/spider/swimmer figures)
 - Multi-study, study-agnostic data pipelines
 
 </td>
 <td width="33%" valign="top">
 
-#### 🧬 Background
+#### 🧬 Track record
 - Sc.M., Johns Hopkins University
 - RWE / EHR research (TriNetX, NHIRD)
 - 3 peer-reviewed publications
@@ -62,16 +62,26 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 </td>
 <td width="33%" valign="top">
 
-#### 🌱 Now Working On
+#### 🔥 Currently sharpening
 - AI agent harness & context engineering
-- Deepening React / Next.js / Prisma
+- React / Next.js / Prisma
 - CDISC SDTM & EDC (Medidata Rave)
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+## ⚔️ Doctrine
+
+> Things I hold until the evidence says otherwise — and I *will* go looking for that evidence.
+
+- **"It works" is a claim, not a fact.** The author never certifies their own work. Fresh eyes, fresh context, or it doesn't count.
+- **If it isn't reproducible, it didn't happen.** Every analysis I ship can be re-run from raw data by someone who isn't me.
+- **"Best practice" is a hypothesis.** Cargo-culting a convention is how bugs get tenure. I read the source.
+- **The dashboard is not the data.** I build the pretty layer, which is exactly why I don't trust it — validation lives underneath.
+- **Disagree, then commit — but disagree first.** A review where nobody pushes back is a rubber stamp with extra steps.
+
+## 🛠️ Arsenal
 
 <p><b>💻 Full-Stack &amp; Web</b></p>
 <p>
@@ -97,7 +107,7 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/SAS-0766D1?style=flat-square&logo=sas&logoColor=white" alt="SAS"/>
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS"/>
-<img src="https://img.shields.io/badge/CDISC_SDTM-00857C?style=flat-square" alt="CDISC SDTM"/>
+<img src="https://img.shields.io/badge/CDISC_SDTM_%2F_ADaM-00857C?style=flat-square" alt="CDISC SDTM / ADaM"/>
 <img src="https://img.shields.io/badge/RWE_/_EHR-6A1B9A?style=flat-square" alt="RWE / EHR"/>
 </p>
 
@@ -114,7 +124,9 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 <img src="https://img.shields.io/badge/AI--Assisted_Dev-00897B?style=flat-square" alt="AI-Assisted Development"/>
 </p>
 
-## 📂 Featured Work
+## 📂 Evidence locker
+
+> Don't take my word for any of this. Click through.
 
 | Project | What it is | Links |
 |---|---|---|
@@ -130,7 +142,7 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 <div align="center">
 
 <a href="https://devpost.com/SwaggyRoger">
-  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost profile"/>
+  <img src="https://img.shields.io/badge/Devpost-0d0d0d?style=for-the-badge&logo=devpost&logoColor=ff003c" alt="Devpost profile"/>
 </a>
 
 <table>
@@ -147,23 +159,23 @@ My day-to-day spans the whole stack: interactive **R/Shiny** clinical dashboards
 ## 📊 GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SwaggyRoger&show_icons=true&hide_border=true&title_color=14b8a6&icon_color=2563eb&text_color=808a99&bg_color=00000000" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwaggyRoger&layout=compact&hide_border=true&title_color=14b8a6&text_color=808a99&bg_color=00000000" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SwaggyRoger&show_icons=true&hide_border=true&title_color=ff003c&icon_color=ffffff&text_color=808a99&bg_color=00000000" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwaggyRoger&layout=compact&hide_border=true&title_color=ff003c&text_color=808a99&bg_color=00000000" alt="Top languages"/>
 </div>
 
 <!-- ===== FOOTER ===== -->
 <br/>
 <div align="center">
 
-### 📫 Let's build something
+### 📫 Convince me — or better, let me convince you
 
 <a href="mailto:cres4356@gmail.com">
-  <img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email_me-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff003c" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/roger-yi-hsuan-chen-901b611a5/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff003c" alt="LinkedIn"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:14b8a6,100:0e7490&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff003c,45:3d0000,100:0d0d0d&height=120&section=footer&rotate=-8" width="100%" alt=""/>
 
 </div>
