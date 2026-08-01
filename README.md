@@ -1,13 +1,13 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,55:3d0000,100:ff003c&height=220&text=Yi-Hsuan%20(Roger)%20Chen&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Question%20everything.%20Build%20what%20survives%20review.&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Roger Chen"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B3784,50:DF1F2D,100:FFD700&height=220&text=Yi-Hsuan%20(Roger)%20Chen&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Question%20everything.%20Build%20what%20survives%20review.&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Roger Chen"/>
 
 <img src="https://raw.githubusercontent.com/SwaggyRoger/SwaggyRoger/main/assets/roger.png" width="130" alt="Roger Chen" style="border-radius:50%"/>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://swaggyroger.github.io/SwaggyRoger/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=FF003C&center=true&vCenter=true&width=640&lines=Question+everything.+Verify+twice.+Ship+once.;Full-Stack+Developer+(R%2FShiny+%2B+Next.js);If+it+isn%27t+reproducible%2C+it+didn%27t+happen.;Leading+a+5-person+international+dev+team" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=DF1F2D&center=true&vCenter=true&width=640&lines=Question+everything.+Verify+twice.+Ship+once.;Full-Stack+Developer+(R%2FShiny+%2B+Next.js);If+it+isn%27t+reproducible%2C+it+didn%27t+happen.;Leading+a+5-person+international+dev+team" alt="Typing SVG"/>
 </a>
 
 <!-- ===== PRIMARY CTA: LIVE PORTFOLIO ===== -->
@@ -19,17 +19,17 @@
 
 <!-- ===== COUNTERS + SOCIAL BADGES ===== -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SwaggyRoger&label=Profile%20views&color=ff003c&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SwaggyRoger&label=Profile%20views&color=DF1F2D&style=flat" alt="Profile views"/>
 </p>
 
 <a href="https://www.linkedin.com/in/roger-yi-hsuan-chen-901b611a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff003c" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2B3784?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/>
 </a>
 <a href="mailto:cres4356@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff003c" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-DF1F2D?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/>
 </a>
 <a href="https://github.com/SwaggyRoger">
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff003c" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-2B3784?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
 </a>
 
 </div>
@@ -143,7 +143,7 @@ Before that: **Johns Hopkins**, real-world evidence research on EHR datasets (Tr
 <div align="center">
 
 <a href="https://devpost.com/SwaggyRoger">
-  <img src="https://img.shields.io/badge/Devpost-0d0d0d?style=for-the-badge&logo=devpost&logoColor=ff003c" alt="Devpost profile"/>
+  <img src="https://img.shields.io/badge/Devpost-2B3784?style=for-the-badge&logo=devpost&logoColor=FFD700" alt="Devpost profile"/>
 </a>
 
 <table>
@@ -160,7 +160,7 @@ Before that: **Johns Hopkins**, real-world evidence research on EHR datasets (Tr
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://ghchart.rshah.org/ff003c/SwaggyRoger" width="90%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/DF1F2D/SwaggyRoger" width="90%" alt="Contribution graph"/>
 </div>
 
 <!-- ===== FOOTER ===== -->
@@ -170,12 +170,12 @@ Before that: **Johns Hopkins**, real-world evidence research on EHR datasets (Tr
 ### 📫 Convince me — or better, let me convince you
 
 <a href="mailto:cres4356@gmail.com">
-  <img src="https://img.shields.io/badge/Email_me-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff003c" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email_me-DF1F2D?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/roger-yi-hsuan-chen-901b611a5/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff003c" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-2B3784?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff003c,45:3d0000,100:0d0d0d&height=120&section=footer&rotate=-8" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,45:DF1F2D,100:2B3784&height=120&section=footer&rotate=-8" width="100%" alt=""/>
 
 </div>
