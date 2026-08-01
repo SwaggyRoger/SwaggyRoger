@@ -160,8 +160,7 @@ Before that: **Johns Hopkins**, real-world evidence research on EHR datasets (Tr
 ## 📊 GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SwaggyRoger&show_icons=true&hide_border=true&title_color=ff003c&icon_color=ffffff&text_color=808a99&bg_color=00000000" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwaggyRoger&layout=compact&hide_border=true&title_color=ff003c&text_color=808a99&bg_color=00000000" alt="Top languages"/>
+<img src="https://ghchart.rshah.org/ff003c/SwaggyRoger" width="90%" alt="Contribution graph"/>
 </div>
 
 <!-- ===== FOOTER ===== -->
