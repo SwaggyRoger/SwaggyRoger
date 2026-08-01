@@ -7,7 +7,7 @@
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://swaggyroger.github.io/SwaggyRoger/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=FF003C&center=true&vCenter=true&width=640&lines=Question+everything.+Verify+twice.+Ship+once.;Full-Stack+Developer+(R%2FShiny+%2B+Next.js);If+it+isn't+reproducible%2C+it+didn't+happen.;Leading+a+5-person+international+dev+team" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=FF003C&center=true&vCenter=true&width=640&lines=Question+everything.+Verify+twice.+Ship+once.;Full-Stack+Developer+(R%2FShiny+%2B+Next.js);If+it+isn%27t+reproducible%2C+it+didn%27t+happen.;Leading+a+5-person+international+dev+team" alt="Typing SVG"/>
 </a>
 
 <!-- ===== PRIMARY CTA: LIVE PORTFOLIO ===== -->
